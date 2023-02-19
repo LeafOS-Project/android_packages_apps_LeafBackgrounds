@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Papéis de parede</string>
+    <string name="category_default">Papéis de parede do LeafOS</string>
+    <string name="leaf_default">LeafOS</string>
+    <string name="aosp_default">AOSP</string>
+</resources>
